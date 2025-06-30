@@ -56,7 +56,7 @@ function ComponentA(){
       <div className="flex justify-between">
         <button
           onClick={start}
-          className="bg-teal-400 hover:bg-teal-500 px-5 py-2 rounded-xl text-white shadow-xl "
+          className="bg-teal-400 hover:bg-teal-500 px-5 py-2 rounded-xl text-white shadow-xl"
         >
           Start
         </button>
